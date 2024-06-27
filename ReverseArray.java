@@ -5,7 +5,7 @@ public class ReverseArray {
 
     public static void main(String[] args) {
 
-        int myArr[]={7,8,5,2,6,9,4,};
+        int myArr[]={7,8,5,2,6,3,4,};
 
         arrayReverse(myArr);
         
