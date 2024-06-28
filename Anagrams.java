@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class Anagrams {
+<<<<<<< HEAD
     public static void main(String[] args) {
         String string1 = "Ram";
         String string2 = "san";
@@ -32,4 +33,7 @@ public class Anagrams {
             System.out.println("Not anagram");
         }
     }
+=======
+
+>>>>>>> 4fc7f8a215638a597bf7c41e45e2315bcb29d9ee
 }
