@@ -10,6 +10,7 @@ public class Anagrams {
 
     
     
+    
 
     
     public static void checkAnagrams(String str1, String str2) {
