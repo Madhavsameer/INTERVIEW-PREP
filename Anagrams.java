@@ -7,6 +7,7 @@ public class Anagrams {
         String string2 = "san";
         checkAnagrams(string1, string2);
     }
+    
 
     
     public static void checkAnagrams(String str1, String str2) {
