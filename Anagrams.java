@@ -11,6 +11,11 @@ public class Anagrams {
 
     }
 
+    
+    
+    
+
+    
     public static void checkAnagrams(String str1, String str2) {
         // Remove white spaces and convert to lower case
         str1 = str1.replaceAll("\\s", "").toLowerCase();
