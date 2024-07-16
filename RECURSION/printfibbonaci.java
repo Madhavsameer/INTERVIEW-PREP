@@ -5,5 +5,11 @@ public class printfibbonaci {
         
     }
 
-    public static void 
+    public static void fibonacciprint(int a, int b,int c, int n){
+        c=a+b;
+        if(n==0){
+            System.out.println(c);
+        }
+
+    }
 }
