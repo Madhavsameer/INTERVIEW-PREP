@@ -3,9 +3,12 @@ import java.util.Arrays;
 public class Anagrams {
 
     public static void main(String[] args) {
+
+        
         String string1 = "Ram";
         String string2 = "san";
         checkAnagrams(string1, string2);
+
     }
 
     public static void checkAnagrams(String str1, String str2) {
