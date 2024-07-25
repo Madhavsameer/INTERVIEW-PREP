@@ -5,6 +5,7 @@ public class BinarySearch {
         int myArr[]={1,2,3,4,5,6,7,8,9};
         Arrays.sort(myArr);
         bs(myArr, 7);
+
         
     }
 
