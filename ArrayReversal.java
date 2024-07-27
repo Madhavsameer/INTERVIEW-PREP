@@ -2,6 +2,7 @@ public class ArrayReversal {
     public static void main(String[] args) {
 
         
+
         
 
         int arr[]={7,5,9,6,8,3};
