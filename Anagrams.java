@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Anagrams {
 
     public static void main(String[] args) {
+        
 
         
         String string1 = "Ram";
