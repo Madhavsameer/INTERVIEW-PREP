@@ -8,6 +8,7 @@ public class Anagrams {
         String string1 = "Ram";
         String string2 = "san";
 
+        
         //done update for the 28th july
         checkAnagrams(string1, string2);
 
