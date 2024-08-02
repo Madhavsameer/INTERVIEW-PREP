@@ -1,0 +1,18 @@
+@relation CropYield
+
+@attribute rainfall numeric
+@attribute temperature numeric
+@attribute soil_quality {poor, average, good}
+@attribute crop_yield numeric
+
+@data
+1200, 23, good, 3000
+1100, 25, average, 2800
+1500, 20, good, 3500
+800, 30, poor, 1500
+1300, 22, average, 3100
+1400, 24, good, 3300
+900, 28, poor, 1700
+1250, 21, average, 2900
+1350, 23, good, 3200
+1000, 26, poor, 2000
